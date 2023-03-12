@@ -132,7 +132,7 @@ int main(){
     printf("Min: %d", min);
     printf("Prom: %d", prom);
 
-    for(int i= CANT+1; i==0; i--){
+    for(int i= CANT+1; i>0; i--){
 
         arreglo[i]= arreglo[i-1];
 
