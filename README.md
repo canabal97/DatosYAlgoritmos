@@ -1,6 +1,6 @@
 ![](./header.png)
 
-###Repositorio exclusivo para la materia "Estructura de Datos y Algoritmos" de la Universidad de Palermo
+### Repositorio exclusivo para la materia "Estructura de Datos y Algoritmos" de la Universidad de Palermo
 
 ## Contenidos:
 
