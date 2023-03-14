@@ -16,3 +16,6 @@
 * Descargar [GIT](https://git-scm.com)
 * Descargar [Bibliografia](https://repositorio.upct.es/bitstream/handle/10317/1361/iap.pdf?sequence=10&isAllowed=y) oficial de la materia
 * IDEs: [Onlinegdb (recomendado)](https://www.onlinegdb.com/online_c_compiler), [Programiz](https://www.programiz.com/c-programming/online-compiler/), [Replit](https://replit.com/languages/c)
+
+
+<iframe src="https://discord.com/widget?id=1015625333887733882&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
