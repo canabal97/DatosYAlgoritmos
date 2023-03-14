@@ -1,6 +1,6 @@
 ![](./header.png)
 
-### Repositorio exclusivo para la materia "Estructura de Datos y Algoritmos" de la Universidad de Palermo
+### Repositorio exclusivo para la materia "Estructura de Datos y Algoritmos" de la Universidad de Palermo ([Github](https://github.com/UniversidadDePalermo))
 
 ## Contenidos:
 
@@ -19,4 +19,4 @@
 
 ### **Unite a nuestro Discord!**
 
-[![Discord](https://img.shields.io/discord/1015625333887733882?color=blue&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/HHdXrC9A)
+  [![Discord](https://img.shields.io/discord/1015625333887733882?color=blue&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/HHdXrC9A)
