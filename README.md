@@ -19,4 +19,4 @@
 
 ### **Unite a nuestro Discord!**
 
-[![Discord](https://img.shields.io/discord/1015625333887733882?color=blue&label=discord&logo=discord&style=for-the-badge)(https://discord.gg/HHdXrC9A)]
+[![Discord](https://img.shields.io/discord/1015625333887733882?color=blue&label=discord&logo=discord&style=for-the-badge)](https://discord.gg/HHdXrC9A)
