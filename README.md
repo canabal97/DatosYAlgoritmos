@@ -2,6 +2,7 @@
 
 ![](Loop-blackboard-fondo-720.gif)
 
+
 ### Repositorio exclusivo para la materia "Estructura de Datos y Algoritmos" de la Universidad de Palermo ([Github](https://github.com/UniversidadDePalermo))
 
 ## Contenidos:
